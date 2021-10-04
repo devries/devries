@@ -9,7 +9,7 @@ reclusive hermit.
 I've also helped characterize the debris in low Earth orbit at [NASA Lewis
 (now Glenn) Research
 Center](https://www.nasa.gov/centers/glenn/home/index.html), I've written
-iPhone and iPad apps for Tech 2000 (now lumious[https://lumious.com])), pushed
+iPhone and iPad apps for Tech 2000 (now [lumious](https://lumious.com)), pushed
 back the frontiers of human and machine knowledge for
 [Hindsait](https://hindsait.com/), and now I keep the internet running with my
 team at [Secunetics](https://www.secunetics.com/).
