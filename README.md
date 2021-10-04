@@ -1,7 +1,7 @@
 I'm Christopher De Vries. I once was an astronomer, earning my Ph.D. at the 
 [University of Massachusetts, Amherst](http://www.umass.edu/). I went on to do
 postdoctoral work at the [Harvard-Smithsonian Center for
-Astrophysics](http://www.cfa.harvard.edu/) and went on to become a tenured
+Astrophysics](http://www.cfa.harvard.edu/) and to become a tenured
 professor at [California State University
 Stanislaus](https://www.csustan.edu/) before giving it all up to become a
 reclusive hermit.
@@ -25,4 +25,4 @@ In my spare time I tend to program small
 microcontrollers to make lights blink on and off in assorted and
 interesting colors. At work I do the same thing, just in higher resolution. I
 also have a [web site](https://unnecessary.tech) where I largely forget to post
-updates.
+updates. 
