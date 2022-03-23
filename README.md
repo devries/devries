@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 I'm Christopher De Vries. I once was an astronomer, earning my Ph.D. at the 
 [University of Massachusetts, Amherst](http://www.umass.edu/). I went on to do
 postdoctoral work at the [Harvard-Smithsonian Center for
